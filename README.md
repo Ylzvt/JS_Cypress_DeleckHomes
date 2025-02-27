@@ -57,7 +57,7 @@ PORT=3000
 <ul>
   <li>JavaScript</li>
   <li>Cypress</li>
-  <li>[Technology 3]</li>
+  <li>GitHub</li>
 </ul>
 
 <h2>📂 Folder Structure</h2>
