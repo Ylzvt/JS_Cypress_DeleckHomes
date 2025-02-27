@@ -1,0 +1,34 @@
+{
+  "user": {
+      "email": "testexmpl@gmail.com",
+      "password": "DHPassword!",
+      "firstName": "James",
+      "lastName": "Bond",
+      "labelFirstNameLastName": "James  Bond",
+      "labelRoleUser": "role: user"
+  },
+  "admin": {
+      "email": "admin@gmail.com",
+      "password": "DontTestMe",
+      "firstName": "Admin",
+      "lastName": "Adminuk",
+      "labelFirstNameLastName": "Admin  Adminuk",
+      "labelRoleUser": "role: admin"
+  },
+  "invaliduser": {
+      "email": "invalid@gmail.com",
+      "password": "invalidPassword",
+      "firstName": "James",
+      "lastName": "Bond",
+      "labelFirstNameLastName": "James  Bond",
+      "labelRoleUser": "role: user"
+  },
+  "realtor": {
+      "email": "realtor@gmail.com",
+      "password": "DHRPassword!",
+      "firstName": "Realtor",
+      "lastName": "Realtorovich",
+      "labelFirstNameLastName": "Realtor  Realtorovich",
+      "labelRoleUser": "role: user"
+  }
+}

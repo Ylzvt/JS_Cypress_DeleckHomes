@@ -23,6 +23,16 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+Cypress.Commands.add("errorHandler", () => {
+  Cypress.on("uncaught:exception", (err, runnable) => {
+    console.warn("Ignoring uncaught exception:", err.message);
+    return false;
+  });
+});
+
+
+
 import Chance from "chance";
 const chance = new Chance();
 
