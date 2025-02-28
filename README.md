@@ -8,7 +8,7 @@
 <ul>
   <li>✅ <strong>PageObjectModel</strong> –framework design for readability, maintainability and reusability </li>
   <li>✅ <strong>CI/CD</strong> – with help of GitHub Actions, a lot advantages, which i would be happy to discuss (find my contact info below 😉) </li>
-  <li>✅ <strong>API calls</strong> – [Brief description]</li>
+  <li>✅ <strong>API calls</strong> – (work in progress)</li>
   <li>✅ <strong>[Feature 4]</strong> – [Brief description]</li>
 </ul>
 
