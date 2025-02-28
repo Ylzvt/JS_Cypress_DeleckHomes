@@ -35,7 +35,8 @@ Navigate to the repository through your desired IDE
 
 <pre>
 <code>
-cd JS_Cypress_DeleckHomes
+cd JS_Cypress_DeleckHomes/Cypress
+  
 // run Cypress  
 npx cypress open
 </code>
